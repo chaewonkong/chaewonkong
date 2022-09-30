@@ -6,7 +6,9 @@
 JavaScript/TypeScript, React, Node.js를 이용해 여러 프로젝트를 개발했습니다. 
 
 현재는 백엔드 개발을 주로 하고 있으며,
-Java Spring Framework를 사용 중이며, NodeJS와 NestJS에도 관심이 많습니다. 
+Go와 Python을 주로 사용하고 있습니다.
+
+시간을 내어 Rust와 Scala를 배워보려고 합니다.
 
 ## 🚀 Projects
 
