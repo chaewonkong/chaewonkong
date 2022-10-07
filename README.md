@@ -8,7 +8,11 @@ JavaScript/TypeScript, React, Node.js를 이용해 여러 프로젝트를 개발
 현재는 백엔드 개발을 주로 하고 있으며,
 Go와 Python을 주로 사용하고 있습니다.
 
-시간을 내어 Rust와 Scala를 배워보려고 합니다.
+요즘은 Rust에 관심이 생겨 이것저것 만져보고 있습니다.
+
+## 🎈 Motto
+Festina lente.
+급할수록 천천히.
 
 ## 🚀 Projects
 
