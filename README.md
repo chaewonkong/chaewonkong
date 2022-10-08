@@ -23,7 +23,7 @@ Patience did. I always try to be calm and patient. 🧘
 ## 🚀 Projects
 - [Oh Good Project](https://ohgoodproject.kr): Web shopping mall with Node.js/Nest.js and React.
 - [rollingpaper](https://rollingpaper.site) (2020 ~): Web SNS that helps people to share with their friends. Over 6 million unique visitors, worldwide.
-- 막차 (2019 ~ 2021): A blazing fast solution for searching last schedule of public transportation that gets you home. With React Native. iOS / Android **10K** downloads.
+- MAKKCHA (2019 ~ 2021): A blazing fast solution for searching last schedule of public transportation that gets you home. With React Native. iOS / Android **10K** downloads.
 - [Harusijak](https://harusijak.com) (2018): One poem one day.
 - [Quad Copter with Arduino](https://www.youtube.com/embed/-yl7HBhhvFA) (2016): Simple quadcopter with arduino.
 
