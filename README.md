@@ -1,7 +1,7 @@
 # 👨🏾‍💻 chaewonkong
 
 **An engineer.** <br />
-Loves to be called as an engineer, because I always believed, and still believe now that engineer is the most coolest job in the world.
+Loves to be called as an engineer, because I always believe that engineer is the coolest job in the world.
 
 For me, **an engineer is a person who solves difficult problems by using appropriate technologies.**
 
