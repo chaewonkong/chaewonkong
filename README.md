@@ -21,7 +21,7 @@ I was always in a haste. 🏃‍♀️ Haste didn't help me to get things done. 
 Patience did. I always try to be calm and patient. 🧘
 
 ## 🚀 Projects
-- [Oh Good Project](https://ohgoodproject.kr): Web shopping mall with Node.js/Nest.js and React.
+- [Oh Good Project](https://ohgoodproject.kr) (2021 ~): Web shopping mall with Node.js/Nest.js and React.
 - [rollingpaper](https://rollingpaper.site) (2020 ~): Web SNS that helps people to share with their friends. Over 6 million unique visitors, worldwide.
 - MAKKCHA (2019 ~ 2021): A blazing fast solution for searching last schedule of public transportation that gets you home. With React Native. iOS / Android **10K** downloads.
 - [Harusijak](https://harusijak.com) (2018): One poem one day.
