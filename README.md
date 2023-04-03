@@ -9,10 +9,7 @@ For me, **an engineer is a person who solves difficult problems by using appropr
 Worked before as an front-end developer, using React and TypeScript. <br />
 Experienced with Node.js and Nest.js.<br /><br />
 
-Nowadays mainly uses **Go**, and **Python** for living. <br />
-Those languages makes me to earn money 💸, and the money makes me to buy cups of coffee ☕️, and the coffee makes me to code. ⌨️ <br />
-
-Interested in **Rust**, and **building a browser from scratch**, because it's cool. ❄️
+Mainly uses Go for work, loves to use Kotlin/Spring boot for personal projects.
 
 ## 🎈 Motto
 > Festina lente.
