@@ -1,7 +1,7 @@
 # 👨🏾‍💻 chaewonkong
 
 **An engineer.** <br />
-Loves to be called as an engineer, because I always believe that engineer is the coolest job in the world.
+Loves to be called as an engineer.
 
 For me, **an engineer is a person who solves difficult problems by using appropriate technologies.**
 
@@ -9,7 +9,7 @@ For me, **an engineer is a person who solves difficult problems by using appropr
 Worked before as an front-end developer, using React and TypeScript. <br />
 Experienced with Node.js and Nest.js.<br /><br />
 
-Mainly uses Go for work, loves to use Spring boot for personal projects.
+Nowadays, mainly uses Go for most back-end projects.
 
 ## 🎈 Motto
 > Festina lente.
