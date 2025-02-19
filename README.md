@@ -29,4 +29,4 @@ Patience did. I always try to be calm and patient. 🧘
 - [email: chaewonkong@gmail.com](mailto://chaewonkong@gmail.com)
 - [linked-in](https://www.linkedin.com/in/chaewon-kong-958986119/)
 - [twitter: @chaewonkong](https://twitter.com/chaewonkong)
-- [Tech blog](https://leonkong.cc)
+- [Tech blog](https://origolucis.com)
