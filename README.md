@@ -22,7 +22,7 @@ Patience did. I always try to be calm and patient. 🧘
 - [email: chaewonkong@gmail.com](mailto://chaewonkong@gmail.com)
 - [linked-in](https://www.linkedin.com/in/chaewon-kong-958986119/)
 - [twitter: @chaewonkong](https://twitter.com/chaewonkong)
-- [Tech blog](https://origolucis.com)
+- [Tech blog](https://chaewonkong.github.io)
 
 <a href="https://github.com/jstrieb/github-stats">
   <img align="left" src="https://github.com/chaewonkong/github-status/blob/master/generated/overview.svg" />
